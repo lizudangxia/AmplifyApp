@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.xuxi.cn"
           target="_blank"
           rel="noopener noreferrer"
         >
